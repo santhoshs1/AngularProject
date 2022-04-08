@@ -1,0 +1,15 @@
+.form-group{
+    background-color: aqua;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.form-check{
+    margin-left: 500px;
+}
+.btn {
+    margin-left: 500px;
+    padding-left: 130px;
+    padding-right: 130px;
+    text-align: center;
+}
